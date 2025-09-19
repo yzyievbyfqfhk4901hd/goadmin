@@ -1,6 +1,8 @@
 ## Conclusion
 - Use C# for this shit.
 - Dont use GO for this shit.
+- Misusing adm toolkits will make u 0$ and **will** get u in jail.
+- Use responsibly and only on machines you own or have explicit permission to access.
 
 ## What it does
 
