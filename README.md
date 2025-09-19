@@ -35,12 +35,13 @@ This bot gives you the power to:
 ```
 
 2. Create `banned.json` for ur banned sites and shit:
+(only for tab names, not literall urls.)
 ```json
 {
   "banned_sites": [
-    "pornhub.com",
-    "reddit.com/r/nsfw",
-    "onlyfans.com"
+    "pornhub",
+    "",
+    ""
   ]
 }
 ```
